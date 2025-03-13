@@ -2,7 +2,7 @@
 <h1> <p "font-size:200px;"><img align="left" src="https://github.com/KDW06/OrcaSlicer/blob/main/resources/images/OrcaSlicer.ico" width="100"> Orca Slicer</p> </h1>
 
 [![Build all](https://github.com/SoftFever/OrcaSlicer/actions/workflows/build_all.yml/badge.svg?branch=main)](https://github.com/SoftFever/OrcaSlicer/actions/workflows/build_all.yml)
-<br>Orca Slicer is an open source slicer for FDM printers. 
+<br>Orca Slicer is an open source slicer for FDM printers. THIS IS A WORK IN PROGRESS AS I AM TEACHING MYSELF HOW TO FORK A PROGRAM FOR THE FIRST TIME AND HOW TO ADD CONVEYOR BELT PRINTERS INTO ORCASLICER. I WILL CHANGE AND UPDATE THIS PAGE AS I MAKE PROGRESS. FOR NOW IT IS HERE WHILE I LEARN AND WORK ON THIS IN MY SPARE TIME FROM MY FULL-TIME JOB. THANKS FOR TAKING A LOOK AND IF YOU ARE WAY MORE KNOWLEDGEABLE ON THIS AND WANT TO CONTRIBUTE, I'M ALL EARS AND WOULD LOVE THE HELP. I JUST WOULD LIKE TO GET THIS WORKING FOR EVEYONE OUT THERE THAT LOVES ORCASLICER AND WOULD LIKE TO NOT RELY ON ANY OTHER SLICER FOR JUST ONE PRINTER.
 
 
 Join our Discord community here:<br>
